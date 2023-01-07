@@ -3,6 +3,7 @@
 Fake news is one of the biggest problems with online social media and even some news sites. Most of the time, we see a lot of fake news about events that are misleading, such news can cause significant damage.  
 
 The dataset we have contains 6335 news headline clippings, along with their label that classifies them as real or fake.   
+Here's the dataset: https://www.kaggle.com/hassanamin/textdb3/download    
 ##   Libraries used    
 Pandas    
 Numpy   
